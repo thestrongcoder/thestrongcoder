@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Software Developer  |  UI/UX Designer  |  Creator | Powerlifter 
 
-#### Current Project: 
+#### Current Project
 I'm currently working on an e-commerce portal for an Automotive and Manufacturing company, I'm the lead designer, and project manager, working with a team of developers. 
 
 #### Learning
