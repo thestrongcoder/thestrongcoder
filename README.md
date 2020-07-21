@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![deadlift](./img/deadlift.jpg)
 # THE STRONG CODER - STEPHANIE HALES
 
 Software Developer  |  UI/UX Designer  |  Creator | Powerlifter 
