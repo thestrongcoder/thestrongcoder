@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 Software Developer  |  UI/UX Designer  |  Creator | Powerlifter 
 
-#### Current Project
+#### Current Projects
 I'm currently working on an e-commerce portal for an Automotive and Manufacturing company, I'm the lead designer, and project manager, working with a team of developers. 
+
+I'm undertaking an internship with Again Faster Australia, woriking on their Software Platform FitBox. 
 
 #### Learning
 Coder Academy Graduate, August 2020
