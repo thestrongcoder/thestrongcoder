@@ -1,7 +1,4 @@
 
-<!--
-**thestrongcoder/thestrongcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # THE STRONG CODER - STEPHANIE HALES
 
 Software Developer  |  UI/UX Designer  |  Creator | Powerlifter 
