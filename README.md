@@ -8,6 +8,7 @@ I'm currently working on an e-commerce and portal (B2B & B2C) for an Automotive 
 
 #### Learning
 Coder Academy Graduate, August 2020
+<br>
 Mobile App Developer Intern at Again Faster Australia (FitBox), August - September 2020
 
 #### About
