@@ -8,7 +8,7 @@ I'm currently working on an e-commerce portal (B2B & B2C) for an Automotive and 
 
 - Website upgrade from a non-responsive website layout to mobile-first design utilising PHP for back-end
 - Redesign of website for an electronic manufacturing company
-- Rebranding and design of a financial sector company 
+- Rebranding, and website design/development for a financial sector company 
 
 #### Learning
 Coder Academy Graduate, August 2020
