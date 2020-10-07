@@ -4,7 +4,11 @@
 Software Developer  |  UI/UX Designer  |  Creator | Powerlifter 
 
 #### Current Projects
-I'm currently working on an e-commerce portal (B2B & B2C) for an Automotive and Manufacturing company. I'm the lead designer, and product owner, working with a team of developers. 
+I'm currently working on an e-commerce portal (B2B & B2C) for an Automotive and Manufacturing company. I'm the lead designer, and product manager, working with a team of developers. 
+
+- Website upgrade from a non-responsive website layout to mobile-first design utilising PHP for back-end
+- Redesign of website for an electronic manufacturing company
+- Rebranding and design of a financial sector company 
 
 #### Learning
 Coder Academy Graduate, August 2020
