@@ -1,11 +1,11 @@
 
 # THE STRONG CODER - STEPHANIE HALES
 
-Software Developer  |  UI/UX Designer  | Product Manager | Powerlifter 
+### Software Developer  |  UI/UX Designer  | Product Manager | Powerlifter 
 
 #### Current Projects
 - E-commerce manufacturing platform (B2B & B2C) 
-- Web design and development - including redesigns, rebranding, and updates as needed
+- Web design and development - including redesigns, rebranding, and updates
 
 
 #### Learning
