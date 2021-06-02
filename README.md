@@ -5,6 +5,7 @@
 
 #### Current Projects
 - E-commerce manufacturing platform (B2B & B2C) 
+- Mobile app design 
 - Web design and development - including redesigns, rebranding, and updates
 
 
